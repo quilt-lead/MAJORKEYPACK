@@ -7,6 +7,12 @@
                      "size":  32189889,
                      "sha256":  "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a",
                      "url":  "https://mediafilez.forgecdn.net/files/7286/603/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar"
+                 },
+                 {
+                     "filename":  "fabric-api-0.92.6+1.20.1.jar",
+                     "size":  2107873,
+                     "sha256":  "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb",
+                     "url":  "https://cdn.modrinth.com/data/P7dR8mSH/versions/UapVHwiP/fabric-api-0.92.6%2B1.20.1.jar?mr_download_reason=standalone"
                  }
              ]
 }
